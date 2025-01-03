@@ -29,7 +29,7 @@ The project utilizes Python and JavaScript to aggregate data from various source
 To get started with the UFO Sightings Project, please follow these steps:
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/ufo-sightings-project.git
+   git clone https://github.com/ENKI0311/ufo-sightings-project.git
    ```
 2. **Install Dependencies:**  
    Navigate to the project directory and run:  
